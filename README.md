@@ -23,6 +23,7 @@ Sobre mí
 
 
 ### Socials
-
 <p align="left"> <a href="https://github.com/gomez50057" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gomez50057/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
+| <a href="https://github.com/gomez50057/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gomez50057&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ga github stats" /></a> | <a href="https://github.com/gomez50057/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomez50057&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | 
