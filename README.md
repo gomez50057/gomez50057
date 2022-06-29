@@ -7,8 +7,6 @@ Sobre mí
 * 🖥️ Soy estudiante de la Ingeniería en Sistemas y Tecnologías Industriales
 * 🤝 Viajero del programa de Innovación Virtual por [Microsoft](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/)
 * 🌍 Soy de México
-(* ✉️  Puedes contactarme en [gomez.50057@gmail.com](mailto:gomez.50057@gmail.com))
-
 
 <h3 align="center">Un apasionado de la programacion e innovacion</h3>
 
