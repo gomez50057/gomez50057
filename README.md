@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Gabriel Gomez</h1>
 
-<!-- <img src="https://github.com/andrea-liliana/andrea-liliana/blob/output/github-contribution-grid-snake.svg" width="100%" /> -->
 
+<img src="https://github.com/gomez50057/gomez50057/blob/main/Archivos/grid-snake.svg" width="100%" /> 
 
 Sobre mí
 --------------------
