@@ -6,8 +6,8 @@
 Sobre mí
 --------------------
 * 🧠 Full Stack Developer
-* 🖥️ Soy estudiante de la Ingeniería en Sistemas y Tecnologías Industriales
-* 🤝 Viajero del programa de Innovación Virtual por [Microsoft](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/)
+* 🖥️ Soy Ingeniería en Sistemas y Tecnologías Industriales
+* 🤝 Ex-Viajero del programa de Innovación Virtual por [Microsoft](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/)
 * 🌍 Soy de México
 
 <h3 align="center">Un apasionado de la programacion e innovacion</h3>
