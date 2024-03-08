@@ -26,4 +26,4 @@ Sobre mí
 </p>
 
 
-<a href="https://github.com/gomez50057/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomez50057&layout=compact&theme=buefy&hide_border=true" width="60%" /></a> 
+<a href="https://github.com/gomez50057/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomez50057&layout=compact&theme=buefy&hide_border=true" width="40%" /></a> 
